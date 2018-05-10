@@ -1,0 +1,95 @@
+[
+  {
+    "children" : [
+      {
+        "children" : [
+          {
+            "children" : [
+              {
+                "children" : [
+                  {
+                    "contentcode" : "ELS-002-001",
+                    "contentname" : "阳光大道",
+                    "hasChildren" : "0",
+                    "nodeId" : "6544"
+                  },
+                  {
+                    "contentcode" : "ELS-002-001",
+                    "contentname" : "西西大道",
+                    "hasChildren" : "0",
+                    "nodeId" : "6545"
+                  }
+                ],
+                "content" : "美好的未来",
+                "contentcode" : "ELS-002-001",
+                "contentname" : "上城区",
+                "hasChildren" : "1",
+                "nodeId" : "6599"
+              },
+              {
+                "contentcode" : "ELS-002-001",
+                "contentname" : "西湖区",
+                "hasChildren" : "0",
+                "nodeId" : "6600"
+              }
+            ],
+            "contentcode" : "ELS-002-001",
+            "contentname" : "无锡",
+            "hasChildren" : "1",
+            "nodeId" : "6598"
+          },
+          {
+            "contentcode" : "ELS-002-001",
+            "contentname" : "苏州",
+            "hasChildren" : "0",
+            "nodeId" : "6548"
+          }
+        ],
+        "contentcode" : "ELS-002-001",
+        "contentname" : "江苏",
+        "hasChildren" : "1",
+        "nodeld" : "6583"
+      },
+      {
+        "children" : [
+          {
+            "contentcode" : "ELS-002-001",
+            "contentname" : "成都",
+            "hasChildren" : "0",
+            "nodeId" : "6596"
+          },
+          {
+            "contentcode" : "ELS-002-001",
+            "contentname" : "重庆",
+            "hasChildren" : "0",
+            "nodeId" : "6595"
+          }
+        ],
+        "contentcode" : "ELS-002-001",
+        "contentname" : "四川",
+        "hasChildren" : "1",
+        "nodeId" : "6594"
+      }
+    ],
+    "contentcode" : "ELS-002-001",
+    "contentname" : "中国",
+    "hasChildren" : "1",
+    "nodeId" : "6582",
+    "parentId" : "13"
+  },
+  {
+    "children" : [
+      {
+        "contentcode" : "ELS-002-001",
+        "contentname" : "加州",
+        "hasChildren" : "0",
+        "nodeId" : "6593"
+      }
+    ],
+    "contentcode" : "ELS-002-001",
+    "contentname" : "美国",
+    "hasChildren" : "1",
+    "nodeId" : "6592",
+    "parentId" : "14"
+  }
+]
